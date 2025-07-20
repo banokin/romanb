@@ -1,14 +1,4 @@
-# Freddy English Tutor
 
-AI-powered English learning assistant with voice interaction capabilities.
-
-## 🚀 Features
-
-- **Voice Interaction**: Natural voice conversations with AI tutor
-- **Personalized Lessons**: Adaptive learning based on user level and goals
-- **Progress Tracking**: Comprehensive analytics and progress monitoring
-- **Knowledge Base**: RAG-powered responses with document upload capabilities
-- **D-ID Avatar**: Realistic AI avatar for enhanced learning experience
 
 ## 📁 Project Structure
 
